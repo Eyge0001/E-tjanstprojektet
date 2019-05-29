@@ -1,0 +1,207 @@
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\ApplicationInsights.config
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\WebAPIAnsokan.dll.config
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\WebAPIAnsokan.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\WebAPIAnsokan.pdb
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csc.exe
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csc.exe.config
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csc.rsp
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csi.exe
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csi.exe.config
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csi.rsp
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.AppContext.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Console.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.Compression.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Claims.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.ValueTuple.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\vbc.exe
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\vbc.exe.config
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\vbc.rsp
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\VBCSCompiler.exe
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Antlr3.Runtime.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.Web.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Newtonsoft.Json.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Net.Http.Formatting.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Helpers.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.WebHost.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Mvc.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Optimization.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Razor.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.Razor.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\WebGrease.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Newtonsoft.Json.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Net.Http.Formatting.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Helpers.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.WebHost.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Mvc.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Optimization.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Razor.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.Razor.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Antlr3.Runtime.pdb
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.Web.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.csproj.CoreCompileInputs.cache
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.csproj.CopyComplete
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.pdb
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\EntityFramework.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\EntityFramework.SqlServer.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\EntityFramework.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\EntityFramework.SqlServer.xml
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.csprojAssemblyReference.cache
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Cors.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.Cors.dll
+C:\Users\mancer\source\repos\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.Cors.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\ApplicationInsights.config
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\WebAPIAnsokan.dll.config
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\WebAPIAnsokan.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\WebAPIAnsokan.pdb
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csc.exe
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csc.exe.config
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csc.rsp
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csi.exe
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csi.exe.config
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\csi.rsp
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.AppContext.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Collections.Immutable.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Console.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.Compression.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.FileSystem.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.IO.Pipes.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Reflection.Metadata.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.AccessControl.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Claims.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Security.Principal.Windows.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.ValueTuple.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Xml.XPath.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\vbc.exe
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\vbc.exe.config
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\vbc.rsp
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\VBCSCompiler.exe
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\roslyn\VBCSCompiler.exe.config
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Antlr3.Runtime.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\EntityFramework.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\EntityFramework.SqlServer.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.DependencyCollector.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.Web.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.WindowsServer.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.ApplicationInsights.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.Web.Infrastructure.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Newtonsoft.Json.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Diagnostics.DiagnosticSource.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Net.Http.Formatting.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Cors.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Helpers.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.Cors.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.WebHost.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Mvc.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Optimization.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Razor.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.Deployment.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.Razor.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\WebGrease.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\EntityFramework.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\EntityFramework.SqlServer.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Net.Http.Formatting.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.Cors.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Http.WebHost.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Newtonsoft.Json.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Helpers.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Mvc.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Optimization.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.Razor.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.Deployment.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Web.WebPages.Razor.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Antlr3.Runtime.pdb
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\System.Diagnostics.DiagnosticSource.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.DependencyCollector.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.WindowsServer.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.AI.Web.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.csproj.CoreCompileInputs.cache
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.csproj.CopyComplete
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.dll
+D:\SKOLAN\SYSTEMUTVECKLING - IT OCH SAMHÄLLE\ÅK.2\E-TJÄNSTER OCH XML (ETB310)\ETjanst\WebAPIAnsokan\WebAPIAnsokan\obj\Debug\WebAPIAnsokan.pdb
